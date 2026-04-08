@@ -1,0 +1,52 @@
+[
+    {
+        "vrijednost": 54.542,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483225200000
+    },
+    {
+        "vrijednost": 70.72,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483311600000
+    },
+    {
+        "vrijednost": 29.707,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483398000000
+    },
+    {
+        "vrijednost": 31.021,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483484400000
+    },
+    {
+        "vrijednost": 23.034,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483570800000
+    },
+    {
+        "vrijednost": 12.968,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483657200000
+    },
+    {
+        "vrijednost": 18.689,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483743600000
+    },
+    {
+        "vrijednost": 21.204,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483830000000
+    },
+    {
+        "vrijednost": 28.633,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1483916400000
+    },
+    {
+        "vrijednost": 46.132,
+        "mjernaJedinica": "µg/m3",
+        "vrijeme": 1484002800000
+    }
+]
