@@ -1,6 +1,6 @@
 Zadatak 1:
 
- 🔹 generiranje podataka
+# generiranje podataka
 np.random.seed(0)
 x = np.linspace(1, 10, 100)
 y_true = np.sin(x)  # stvarna funkcija
@@ -20,7 +20,7 @@ MSEtest = []
 
 plt.figure(figsize=(10, 6))
 
-# 🔹 petlja kroz modele
+# petlja kroz modele
 for d in degrees:
 
     poly = PolynomialFeatures(degree=d)
